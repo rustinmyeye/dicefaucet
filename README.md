@@ -9,7 +9,7 @@ This Telegram bot allows users to roll a dice and potentially win tokens. It is 
 ## Features
 
 - Roll a dice with `/roll` command.
-- Register, update, or delete your Ergo wallet address.
+- `/register`, `/update`, or `/delete` your Ergo wallet address.
 - Check your registered wallet address with `/list` command.
 - Detailed help message with `/alien` command.
 
