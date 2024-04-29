@@ -23,7 +23,7 @@ Before running the bot, make sure to configure the following settings in the scr
 
 ## Installation
 
-Before you begin, ensure you have python installed, then:
+Before you begin, ensure you have git and python installed, then:
 
 1. Clone the repository:
 
