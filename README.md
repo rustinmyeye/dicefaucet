@@ -23,7 +23,24 @@ Before running the bot, make sure to configure the following settings in the scr
 
 ## Installation
 
+Before you begin, ensure you have python installed, then:
+
 1. Clone the repository:
 
 ```bash
 git clone https://github.com/your_username/dice-faucet-telegram-bot.git
+```
+2. Navigate to the cloned repository directory
+```
+cd dice-faucet-telegram-bot
+```
+3. Install the required dependencies
+```
+pip install -r requirements.txt
+```
+
+## Run It
+
+```
+python dicefaucet.py
+```
