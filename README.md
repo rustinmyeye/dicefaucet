@@ -32,7 +32,7 @@ git clone https://github.com/rustinmyeye/dicefaucet.git
 ```
 2. Navigate to the cloned repository directory
 ```
-cd dice-faucet-telegram-bot
+cd dicefaucet
 ```
 3. Install the required dependencies
 ```
