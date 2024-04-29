@@ -28,7 +28,7 @@ Before you begin, ensure you have git and python installed, then:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your_username/dice-faucet-telegram-bot.git
+git clone https://github.com/rustinmyeye/dice-faucet-telegram-bot.git
 ```
 2. Navigate to the cloned repository directory
 ```
