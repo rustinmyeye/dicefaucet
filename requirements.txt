@@ -1,2 +1,2 @@
-python-telegram-bot==13.7
-ergpy==0.3.0
+python-telegram-bot
+ergpy
