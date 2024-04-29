@@ -1,5 +1,9 @@
 # Dice Faucet Telegram Bot
 
+THIS IS A WORK IN PROGRESS AND MAY NOT WORK. USE AT YOUR OWN RISK.
+
+Feel free to use this as a template for you own project... some of it works ;)
+
 This Telegram bot allows users to roll a dice and potentially win tokens. It is integrated with ergpy to distribute tokens to winners. Users can register their Ergo wallet addresses to receive tokens upon winning.
 
 ## Features
